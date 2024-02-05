@@ -15,8 +15,7 @@
     "react-dom": "^16.8.6"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm run build"
+    "build": "npm install"
   },
   "prettier": {
     "trailingComma": "all"
