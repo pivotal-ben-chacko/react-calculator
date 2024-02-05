@@ -15,7 +15,7 @@
     "react-scripts": "^3.0.1"
   },
   "scripts": {
-    "start": "echo $?"
+    "start": "npm install"
   },
   "prettier": {
     "trailingComma": "all"
