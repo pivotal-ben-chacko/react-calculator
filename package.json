@@ -4,13 +4,9 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.17.1"
-  },
+    "gh-pages": "^2.0.1"
+  ,
   "dependencies": {
-    "chai": "^4.2.0",
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.17.1",
     "big.js": "^5.2.2",
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.8.6",
