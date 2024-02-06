@@ -15,7 +15,7 @@
     "react-scripts": "^3.0.1"
   },
   "scripts": {
-    "start": "npm install"
+    "start": "npm install,npm audit fix --force,npm start"
   },
   "prettier": {
     "trailingComma": "all"
